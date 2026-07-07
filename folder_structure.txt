@@ -34,9 +34,3 @@ low_latency_order_validator/
     └── latency_histogram.py
         └── A quantitative Python script that drops cache-warmup data, converts hardware cycles to nanoseconds, and plots p99 tail latency.
 
-
-
-
-
-3. The C++ Upgrade: CRTP Rule Dispatch (Zero-Overhead Polymorphism)
-
