@@ -1094,6 +1094,7 @@ CMakeFiles/validator.dir/src/main.cpp.o: /Users/hemantayuj/Desktop/Low-Latency\ 
   /Users/hemantayuj/Desktop/Low-Latency\ Order\ Validator/include/core/seqlock.hpp \
   /Users/hemantayuj/Desktop/Low-Latency\ Order\ Validator/include/utils/memory_pool.hpp \
   /Users/hemantayuj/Desktop/Low-Latency\ Order\ Validator/include/trading/risk_engine.hpp \
+  /Users/hemantayuj/Desktop/Low-Latency\ Order\ Validator/include/trading/rules.hpp \
   /Users/hemantayuj/Desktop/Low-Latency\ Order\ Validator/include/utils/huge_page_allocator.hpp \
   /Users/hemantayuj/Desktop/Low-Latency\ Order\ Validator/include/utils/memory_pool.hpp \
   /Users/hemantayuj/Desktop/Low-Latency\ Order\ Validator/include/utils/rdtsc_timer.hpp
@@ -3158,6 +3159,8 @@ CMakeFiles/validator.dir/src/main.cpp.o: /Users/hemantayuj/Desktop/Low-Latency\ 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/c++/v1/__algorithm/ranges_min.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/c++/v1/__algorithm/make_heap.h:
+
+/Users/hemantayuj/Desktop/Low-Latency\ Order\ Validator/include/trading/rules.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/_ctype.h:
 
